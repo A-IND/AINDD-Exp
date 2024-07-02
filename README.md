@@ -22,7 +22,7 @@ Note that the CENSUS, WIKIPEDIA, and IMDB datasets we use are from [SAWFISH](htt
 | TPC-H               | [TPCH](https://www.tpc.org/tpch/)          |
 | BTC                 | [BTC](https://www.kaggle.com/datasets/bhavithran/btc-1minute-data-w-technical-indicators) |
 | GENOME              | [GENOME](https://grouplens.org/datasets/movielens/tag-genome-2021/) |
-| EEG                 | [EEG]()                                                      |
+| EEG                 | [EEG](https://www.kaggle.com/datasets/shrutimurarka/cap-sleep-unbalanced-dataset)                                                      |
 | TPC-DS              | [TPC-DS](https://figshare.le.ac.uk/articles/dataset/EMF-Syncer_Databases_used_for_TPC-DS_benchmark/9861650/1) |
 | IMDB                | [IMDB](https://github.com/HPI-Information-Systems/Sawfish/tree/main/datasets) |
 | all-errors-CENSUS   | `./Datasets/Exp-6/ErrorInjection.zip`                        |
